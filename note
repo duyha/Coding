@@ -1,0 +1,2 @@
+# Compile 
+g++ -std=c++11 leetcode66.cpp -o /tmp/output; /tmp/output
